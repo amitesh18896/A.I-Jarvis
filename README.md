@@ -6,9 +6,15 @@ of performing tasks other than conversing. This project is based on AIML 1.0 and
 interpreter in python. AIML, is based on pattern matching and this project does not implement any sort of
 machine learning or language processing. Combined with a few python scripts, J.A.R.V.I.S now performs quite a
 few tasks:
+
+
 Requirements:
+
+
 Make sure you install these packages before moving forward to other python libraries-
 AIML (For Pattern Recognition)
+
+
 pip install aiml
 
 Speech Recognition
